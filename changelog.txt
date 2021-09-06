@@ -7,7 +7,7 @@ NamelessMC version 2 Changelog
 - Fix issue with editing user in AdminCP
 - Prevent non-moderators replying to locked topics
 - Prevent signature image overflow
-- Remove unnecessary header template file
+- Remove unnecessary header teasdasdmplate file
 - Fix registration issue
 - Fix recaptcha issues in upgrade script
 - Minor forum updates
